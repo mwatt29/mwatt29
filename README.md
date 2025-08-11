@@ -4,6 +4,8 @@ Hey, I'm Murray Watt 👋, a computer science student based in Canada 🍁. I am
 
 I am yet to find my niche within the field, however; I feel there are infinite possibiliites for creation. 
 
+
+### My Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
