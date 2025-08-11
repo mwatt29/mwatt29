@@ -5,7 +5,7 @@ Hey, I'm Murray Watt 👋, a computer science student based in Canada 🍁. I am
 I am yet to find my niche within the field, however; I feel there are infinite possibiliites for creation. 
 
 
-### My Tech Stack
+<h3 align="center">My Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,6 +20,7 @@ I am yet to find my niche within the field, however; I feel there are infinite p
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 # Future
