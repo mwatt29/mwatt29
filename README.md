@@ -25,4 +25,4 @@ I am yet to find my niche within the field, however; I feel there are infinite p
 
 # Future
 
-Looking to learn: I'm excited to explore AWS and other cloud technologies next.
+Looking to learn: I'm excited to explore AWS and other cloud technologies next. Actively pursuing: a 2026 SWE internship, or related field. 
