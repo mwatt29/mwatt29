@@ -28,6 +28,7 @@ I am yet to find my niche within the field, however; I feel there are infinite p
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
 ## Future
 
 Looking to learn: I'm excited to explore AWS and other cloud technologies next. Actively pursuing: a 2026 SWE internship, or related field. 
