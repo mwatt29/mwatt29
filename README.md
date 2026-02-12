@@ -1,8 +1,12 @@
 ## About me
 
-Hey, I'm Murray Watt , a computer science student based in Canada . I am passionately exploring all industries through technology. My GitHub showcases a diverse portfolio of projects, from classroom assignments to personal creations, demonstrating my ability to build with various languages and software to solve problems in any field. 
+Hi, I’m Murray Watt, a Computer Science student based in Canada with a strong interest in software engineering, data engineering, and cloud computing.
 
-I am yet to find my niche within the field, however; I feel there are infinite possibiliites for creation. 
+I enjoy building scalable and efficient systems, and working with data to transform complex problems into structured, practical solutions. My GitHub showcases projects ranging from academic coursework to independent builds, reflecting my experience across multiple languages, tools, and system designs.
+
+I am particularly drawn to backend development, data pipelines, distributed systems, and cloud based architectures. I am continuously refining my skills in databases, system design, and modern development practices with the goal of building reliable and scalable technology.
+
+While I am still shaping my long term specialization, I am motivated by solving meaningful problems and creating software that performs at scale.
 
 
 <div align="center">
